@@ -1,0 +1,7 @@
+train: ../data-preprocessed/bcc/images/train                    
+val: ../data-preprocessed/bcc/images/valid
+
+nc: 3
+
+names: ['Platelets', 'RBC', 'WBC']
+
