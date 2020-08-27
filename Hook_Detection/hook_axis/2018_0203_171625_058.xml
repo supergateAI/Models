@@ -1,0 +1,26 @@
+<annotation>
+	<folder>total_img</folder>
+	<filename>2018_0203_171625_058.JPG</filename>
+	<path>/home/dayoung/dev/Models/Classification_construction/images/total_img/2018_0203_171625_058.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>764</xmin>
+			<ymin>1308</ymin>
+			<xmax>1028</xmax>
+			<ymax>1552</ymax>
+		</bndbox>
+	</object>
+</annotation>

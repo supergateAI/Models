@@ -1,0 +1,7 @@
+train: ../imgs/images/train                    
+val: ../imgs/images/valid
+
+nc: 1
+
+names: ['hook']
+
