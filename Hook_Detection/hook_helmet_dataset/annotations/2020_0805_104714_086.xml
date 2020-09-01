@@ -1,0 +1,26 @@
+<annotation>
+	<folder>total_img</folder>
+	<filename>2020_0805_104714_086.JPG</filename>
+	<path>/home/dayoung/dev/Models/Classification_construction/images/total_img/2020_0805_104714_086.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>349</ymin>
+			<xmax>355</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>

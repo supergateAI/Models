@@ -1,0 +1,7 @@
+train: ../data-preprocessed/hook_helmet/images/train                    
+val: ../data-preprocessed/hook_helmet/images/valid
+
+nc: 4
+
+names: ['head','helmet','hook','person']
+
