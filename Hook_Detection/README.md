@@ -10,19 +10,17 @@
 pip install -qr 'codes/requirements.txt'  # install dependencies
 ```
 - Inference
-> Parameters
-!python
-
-    <'location of detect.py file'>
-    --source <'location of image/ folder to predict'>
-    --weight <'location of the saved best weights'>
-    --output <'location of output files after prediction'>
+> Parameters 
+ > <'location of detect.py file'>
+ > --source <'location of image/ folder to predict'>
+ > --weight <'location of the saved best weights'>
+ > --output <'location of output files after prediction'>
 
 
 ```
-!python detect.py --source data-preprocessed/hook_helmet/images/valid/ --weights 'codes/runs/exp3_HookHelmet/weights/best_HookHelmet.pt' --output 'codes/inference/output'
+python detect.py --source data-preprocessed/hook_helmet/images/valid/ --weights 'codes/runs/exp3_HookHelmet/weights/best_HookHelmet.pt' --output 'codes/inference/output'
 
 ```
 
-Checkout 'codes/inference/output'!
-Done!
+## Checkout 'codes/inference/output'!
+## Done!
