@@ -11,10 +11,14 @@ pip install -qr 'codes/requirements.txt'  # install dependencies
 ```
 - Inference
 > Parameters 
- > <'location of detect.py file'>
- > --source <'location of image/ folder to predict'>
- > --weight <'location of the saved best weights'>
- > --output <'location of output files after prediction'>
+
+<'location of detect.py file'>
+
+--source <'location of image/ folder to predict'>
+
+--weight <'location of the saved best weights'>
+
+--output <'location of output files after prediction'>
 
 
 ```
