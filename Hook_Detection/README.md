@@ -4,7 +4,27 @@
 - Helmet : Helmet on
 - Head : Helmet off
 
-## 2. Run Inference
+## 2. Download Image Files
+
+> Folders
+>
+> ----data-preprocessed
+>
+> ​	 ---- hook_helmet
+>
+> ​				---- images
+>
+> ​						---- train
+>
+> ​						----valid
+>
+> ​				---- labels
+>
+> ​						---- train
+>
+> ​						----valid
+
+## 3. Run Inference
 - install packages
 ```
 pip install -qr 'codes/requirements.txt'  # install dependencies
