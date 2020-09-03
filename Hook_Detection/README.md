@@ -34,11 +34,13 @@ pip install -qr 'codes/requirements.txt'  # install dependencies
 
 <'location of detect.py file'>
 
---source <'location of image/ folder to predict'>
+--source <'location of image/ video/folder to predict'>
 
 --weight <'location of the saved best weights'>
 
 --output <'location of output files after prediction'>
+
+> example (photo)
 
 
 ```
@@ -47,4 +49,5 @@ python detect.py --source data-preprocessed/hook_helmet/images/valid/ --weights 
 ```
 
 ## Checkout 'codes/inference/output'!
+
 ## Done!
