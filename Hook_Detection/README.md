@@ -70,3 +70,10 @@ example:
 python codes/mp42jpgs.py --videopath add.mp4 --output train/
 ```
 
+- codes/change_xml.py
+
+> change labels in xml file (hat -> helmet, person -> head)
+
+```
+python codes/change_xml.py
+```
