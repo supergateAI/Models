@@ -27,7 +27,7 @@
 ## 3. Run Inference
 - install packages
 ```
-pip install -qr 'codes/requirements.txt'  # install dependencies
+pip install -qr '../requirements.txt'  # install dependencies
 ```
 - Inference
 > Parameters 
@@ -51,3 +51,22 @@ python detect.py --source data-preprocessed/hook_helmet/images/valid/ --weights 
 ## Checkout 'codes/inference/output'!
 
 ## Done!
+
+
+
+<br>
+
+<br>
+
+# Data pre-process files
+
+- codes/mp42jpgs.py
+
+> convert mp4 file to jpg files
+
+example:
+
+```
+python codes/mp42jpgs.py --videopath add.mp4 --output train/
+```
+

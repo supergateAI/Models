@@ -12,3 +12,18 @@
 ## Hook Detection
 > Detect Hook, Helmet, Head
 - Yolo v5 models
+
+
+
+<br>
+
+<br>
+
+# Install packages
+
+```
+pip install -qr '../requirements.txt'  # install dependencies
+```
+
+
+
